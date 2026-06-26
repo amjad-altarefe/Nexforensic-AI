@@ -141,6 +141,8 @@ The result is a unified forensic decision-support framework that provides both m
 * Authors
 * License
 
+---
+
 # System Architecture
 <p align="center">
 <img src="docs/screenshots/Architecture.png" width="90%">
@@ -541,25 +543,36 @@ Future versions aim to extend NexForensic AI into a complete forensic investigat
 
 ## Authors
 
-**Amjad Emad Qandeel**
+### Amjad Emad Qandeel
+- Lead Developer
+- System Architecture
+- AI Integration
+- GUI Development
+- Hybrid Detection Framework
+- Digital Forensics Pipeline
 
-Cybersecurity Graduate
+### Sarah Fouad
+- Co-Developer
+- Machine Learning Development
+- Model Training & Evaluation
+- Experimental Validation
+- Performance Analysis
 
-Faculty of Information Technology
-
-Middle East University
-
-Jordan
+Faculty of Information Technology  
+Middle East University, Jordan
 
 ---
 
 # License
 
-This project was developed as part of an academic graduation project.
+This project is licensed under a **Custom Academic License**.
 
-The source code is provided for educational and research purposes.
+NexForensic AI is provided for educational, academic, and research purposes only.
+Commercial use, redistribution, modification, or publication of modified versions is not permitted without prior written permission from both copyright holders.
 
-Commercial use, redistribution, or modification requires permission from the project author.
+See the [LICENSE](LICENSE) file for full license details.
+
+---
 
 # Example Analysis Workflow
 
