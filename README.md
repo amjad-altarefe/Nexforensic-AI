@@ -570,7 +570,7 @@ This project is licensed under a **Custom Academic License**.
 NexForensic AI is provided for educational, academic, and research purposes only.
 Commercial use, redistribution, modification, or publication of modified versions is not permitted without prior written permission from both copyright holders.
 
-See the [LICENSE](LICENSE) file for full license details.
+See the [LICENSE](LICENSE) and [LICENSE-ACADEMIC.md](LICENSE-ACADEMIC.md) files for full license details.
 
 ---
 
