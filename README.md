@@ -364,7 +364,7 @@ The reports are intended to support forensic investigations by providing a struc
 ## Clone the repository
 
 ```bash
-git clone https://github.com/amjad-altarefe/Nexforensic-AI.git
+git clone https://github.com/amjad-altarefe/NexForensic-AI.git
 
 cd NexForensic-AI
 ```
@@ -394,6 +394,10 @@ If the Live VM pipeline is not configured, users can still perform complete stat
 
 ---
 # Demo
+
+<p align="center">
+<img src="docs/screenshots/GUI.png" width="90%">
+</p>
 
 The following demonstrates the complete NexForensic AI workflow.
 
@@ -544,7 +548,8 @@ Future versions aim to extend NexForensic AI into a complete forensic investigat
 ## Authors
 
 ### Amjad Emad Qandeel
-- Lead Developer
+Lead Developer
+
 - System Architecture
 - AI Integration
 - GUI Development
@@ -552,7 +557,8 @@ Future versions aim to extend NexForensic AI into a complete forensic investigat
 - Digital Forensics Pipeline
 
 ### Sarah Fouad
-- Co-Developer
+Co-Developer
+
 - Machine Learning Development
 - Model Training & Evaluation
 - Experimental Validation
@@ -725,14 +731,16 @@ The authors assume no responsibility for misuse of the software or for unauthori
 If you use this project for academic research, please cite it as:
 
 ```text
-Amjad Emad Qandeel.
+Amjad Emad Qandeel and Sarah Fouad.
 
 NexForensic AI:
 Hybrid AI-Powered PDF Malware Detection and Digital Forensics Analysis Framework.
 
 Graduation Project,
 Faculty of Information Technology,
-Bachelor of Cybersecurity.
+Middle East University,
+Jordan,
+2026.
 ```
 
 ---
@@ -783,4 +791,3 @@ Hybrid AI-Powered PDF Malware Detection and Digital Forensics Analysis Framework
 Developed as a Cybersecurity Graduation Project.
 
 </p>
-
