@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/screenshots/banner.png" width="100%">
+</p>
+> **AI-powered PDF Malware Detection • Dynamic Behavioral Analysis • Digital Forensics • Explainable AI**
 # NexForensic AI
 
 ### Hybrid AI-Powered PDF Malware Detection and Digital Forensics Analysis Framework
@@ -15,6 +19,13 @@
 ---
 
 ## Overview
+<p align="center">
+<img src="docs/screenshots/GUI.png" width="90%">
+</p>
+
+<p align="center">
+<b>Main Desktop Interface</b>
+</p>
 
 NexForensic AI is a hybrid digital forensics framework designed to assist forensic analysts in the investigation of suspicious PDF documents by combining static analysis, dynamic behavioral analysis, explainable artificial intelligence, and forensic incident correlation within a single desktop application.
 
@@ -38,6 +49,7 @@ When external behavioral evidence is supplied, the framework performs **Same Sam
 Finally, NexForensic AI generates comprehensive forensic reports in both **PDF** and **HTML** formats containing static analysis, runtime evidence, explainable AI results, incident correlation findings, evidence integrity information, and final forensic conclusions.
 
 ---
+
 
 # Key Features
 
@@ -120,6 +132,13 @@ The result is a unified forensic decision-support framework that provides both m
 * License
 
 # System Architecture
+<p align="center">
+<img src="docs/screenshots/architecture.png" width="90%">
+</p>
+
+<p align="center">
+<b>Figure 2. System Architecture</b>
+</p>
 
 NexForensic AI follows a modular architecture where every stage of the forensic pipeline performs an independent task before contributing to the final forensic assessment.
 
@@ -145,48 +164,13 @@ The modular design allows each component to operate independently while sharing 
 
 The complete analysis pipeline consists of the following stages:
 
-```
-Suspicious PDF
-      │
-      ▼
-Static Feature Extraction
-      │
-      ▼
-LightGBM Static Detection
-      │
-      ▼
-────────────────────────────────────────────
-│                                          │
-│  Dynamic Analysis Selection              │
-│                                          │
-├──────────────┬───────────────────────────┤
-│              │                           │
-│ Live VM      │ External CAPE JSON        │
-│ Analysis     │ Dynamic Analysis          │
-│              │                           │
-└──────────────┴───────────────────────────┘
-      │
-      ▼
-Dynamic Feature Extraction
-      │
-      ▼
-Random Forest Detection
-      │
-      ▼
-Runtime Evidence Interpreter
-      │
-      ▼
-Hybrid Decision Engine
-      │
-      ▼
-Incident Correlation Engine
-      │
-      ▼
-Same Sample Verification (when applicable)
-      │
-      ▼
-PDF & HTML Forensic Report
-```
+<p align="center">
+<img src="docs/screenshots/Workflow.png" width="90%">
+</p>
+
+<p align="center">
+<b>Figure 1. NexForensic AI Detection Workflow</b>
+</p>
 
 ---
 
@@ -396,7 +380,17 @@ Live dynamic analysis requires:
 If the Live VM pipeline is not configured, users can still perform complete static analysis and dynamic behavioral analysis using external CAPEv2 JSON reports.
 
 ---
+# Demo
 
+The following demonstrates the complete NexForensic AI workflow.
+
+- Upload a suspicious PDF.
+- Select the reported incident scenario.
+- Choose the dynamic analysis mode.
+- Execute the analysis.
+- Review the generated forensic reports.
+
+---
 # Running the Application
 
 Start the graphical interface:
@@ -467,20 +461,43 @@ NexForensic-AI
 
 # Screenshots
 
-The following screenshots demonstrate the primary components of the application.
+## Main Interface
 
-* Main Application Interface
-* Static Analysis Results
-* Dynamic Analysis Results
-* Runtime Evidence Interpretation
-* Incident Correlation Results
-* Generated PDF Report
-* Generated HTML Report
-* SHAP Explanations
-* System Architecture
-* Detection Workflow
+<p align="center">
+<img src="docs/screenshots/GUI.png" width="90%">
+</p>
 
-> Screenshots are available in the `docs/screenshots` directory.
+---
+
+## Static Analysis
+
+<p align="center">
+<img src="docs/screenshots/static_shap_plot.png" width="90%">
+</p>
+
+---
+
+## Dynamic Analysis
+
+<p align="center">
+<img src="docs/screenshots/dynamic_shap_plot.png" width="90%">
+</p>
+
+---
+
+## Generated PDF Report
+
+<p align="center">
+<img src="docs/screenshots/PDF_Report.png" width="90%">
+</p>
+
+---
+
+## HTML Report
+
+<p align="center">
+<img src="docs/screenshots/HTML_Report.png" width="90%">
+</p>
 
 ---
 
@@ -509,15 +526,20 @@ Potential future enhancements include:
 * Timeline reconstruction.
 * Threat intelligence integration.
 
+Future versions aim to extend NexForensic AI into a complete forensic investigation platform capable of supporting additional malware formats, cloud sandbox integration, threat intelligence enrichment, and automated timeline reconstruction.
 ---
 
-# Authors
+## Authors
 
 **Amjad Emad Qandeel**
 
-Bachelor of Cybersecurity
+Cybersecurity Graduate
 
-Graduation Project – NexForensic AI
+Faculty of Information Technology
+
+Applied Science Private University
+
+Jordan
 
 ---
 
