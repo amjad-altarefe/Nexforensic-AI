@@ -1,7 +1,9 @@
 <p align="center">
   <img src="docs/screenshots/banner.png" width="100%">
 </p>
+
 > **AI-powered PDF Malware Detection • Dynamic Behavioral Analysis • Digital Forensics • Explainable AI**
+
 # NexForensic AI
 
 ### Hybrid AI-Powered PDF Malware Detection and Digital Forensics Analysis Framework
@@ -24,7 +26,7 @@
 </p>
 
 <p align="center">
-<b>Main Desktop Interface</b>
+<b>Figure 1. Main Desktop Interface</b>
 </p>
 
 NexForensic AI is a hybrid digital forensics framework designed to assist forensic analysts in the investigation of suspicious PDF documents by combining static analysis, dynamic behavioral analysis, explainable artificial intelligence, and forensic incident correlation within a single desktop application.
@@ -71,6 +73,14 @@ Finally, NexForensic AI generates comprehensive forensic reports in both **PDF**
 ---
 
 # Why NexForensic AI?
+
+<p align="center">
+<img src="docs/screenshots/THE BRIDGE.png" width="90%">
+</p>
+
+<p align="center">
+<b>Figure 2. Bridging PDF Malware Detection and Forensic Investigation</b>
+</p>
 
 Traditional PDF malware detection tools generally focus on either static characteristics or runtime behavior. This separation can reduce the analyst's ability to understand how multiple evidence sources relate to one another.
 
@@ -133,11 +143,11 @@ The result is a unified forensic decision-support framework that provides both m
 
 # System Architecture
 <p align="center">
-<img src="docs/screenshots/architecture.png" width="90%">
+<img src="docs/screenshots/Architecture.png" width="90%">
 </p>
 
 <p align="center">
-<b>Figure 2. System Architecture</b>
+<b>Figure 3. System Architecture</b>
 </p>
 
 NexForensic AI follows a modular architecture where every stage of the forensic pipeline performs an independent task before contributing to the final forensic assessment.
@@ -169,7 +179,7 @@ The complete analysis pipeline consists of the following stages:
 </p>
 
 <p align="center">
-<b>Figure 1. NexForensic AI Detection Workflow</b>
+<b>Figure 4. NexForensic AI Detection Workflow</b>
 </p>
 
 ---
@@ -280,6 +290,7 @@ Separate SHAP explanations are generated for:
 The generated explanations identify the most influential features contributing to each prediction and are included within the generated forensic reports.
 
 This enables forensic analysts to understand why a particular document was classified as malicious or benign rather than relying solely on prediction probabilities.
+---
 
 # Incident Correlation Engine
 
@@ -439,8 +450,6 @@ NexForensic-AI
 ├── docs/
 │   └── screenshots/
 │
-├── examples/
-│
 ├── models/
 │
 ├── tools/
@@ -527,6 +536,7 @@ Potential future enhancements include:
 * Threat intelligence integration.
 
 Future versions aim to extend NexForensic AI into a complete forensic investigation platform capable of supporting additional malware formats, cloud sandbox integration, threat intelligence enrichment, and automated timeline reconstruction.
+
 ---
 
 ## Authors
@@ -537,7 +547,7 @@ Cybersecurity Graduate
 
 Faculty of Information Technology
 
-Applied Science Private University
+Middle East University
 
 Jordan
 
