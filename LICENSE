@@ -1,52 +1,54 @@
-# NexForensic AI Academic License
+NexForensic AI Academic License
 
 Copyright © 2026 Amjad Emad Qandeel and Sarah Fouad.
 
 All Rights Reserved.
 
-NexForensic AI was jointly developed by **Amjad Emad Qandeel** and **Sarah Fouad** as an academic graduation project submitted to the Faculty of Information Technology, Middle East University.
+NexForensic AI was jointly developed by Amjad Emad Qandeel and Sarah Fouad as an academic graduation project submitted to the Faculty of Information Technology, Middle East University.
 
-## Academic Use
+Academic Use
 
 This software is provided for educational, academic, and research purposes only.
 
-Students, researchers, and educators are permitted to study, reference, and cite this work for non-commercial purposes, provided that appropriate credit is given to the original authors.
+Students, researchers, and educators are granted a limited, non-exclusive permission to view, study, reference, and cite this work for non-commercial academic purposes, provided that appropriate credit is given to the original authors.
 
-## Restrictions
+This license does not grant open-source redistribution, modification, or commercial usage rights.
+
+Restrictions
 
 Without prior written permission from both copyright holders, you may not:
 
-* Copy or redistribute the source code.
-* Modify, adapt, or create derivative works.
-* Use any part of this project in commercial products or services.
-* Publish modified versions of the project.
-* Remove or alter copyright notices or author attribution.
+- Copy or redistribute the source code.
+- Modify, adapt, or create derivative works.
+- Use any part of this project in commercial products or services.
+- Publish modified versions of the project.
+- Remove or alter copyright notices or author attribution.
 
-## Ownership
+Ownership
 
 The intellectual property rights for NexForensic AI are jointly owned by:
 
-* **Amjad Emad Qandeel**
-* **Sarah Fouad**
+Amjad Emad Qandeel
+Sarah Fouad
 
-Any future reuse, redistribution, or commercial utilization of this project requires the consent of the copyright holders.
+Any future reuse, redistribution, modification, or commercial utilization of this project requires the consent of both copyright holders.
 
-## Disclaimer
+Disclaimer
 
-This software is provided **"AS IS"**, without warranty of any kind, either expressed or implied.
+This software is provided "AS IS", without warranty of any kind, either expressed or implied.
 
-The authors shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or misuse of this software.
+The authors shall not be held liable for any direct, indirect, incidental, special, exemplary, or consequential damages resulting from the use or misuse of this software.
 
-## Citation
+Citation
 
 If this project is referenced in academic publications, research, or educational material, proper citation of the project and both authors is appreciated.
 
-## Authors
+Authors
 
-**Amjad Emad Qandeel**
+Amjad Emad Qandeel
 Lead Developer & Co-Author
 
-**Sarah Fouad**
+Sarah Fouad
 Co-Developer & Co-Author
 
 Faculty of Information Technology
